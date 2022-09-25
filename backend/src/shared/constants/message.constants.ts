@@ -1,0 +1,13 @@
+export const WRONG_EMAIL_PASSWORD = 'Invalid credentials.';
+export const EMAIL_EXIST = 'Email is already used by another user.';
+export const REGISTERED = 'You are registered successfully.';
+export const LOGGED_IN = 'You are logged in successfully.';
+export const INVALID_JWT = 'Invalid JWT';
+export const EXPIRED_JWT = 'Expired JWT';
+export const INVALID_REFRESH_TOKEN = 'Invalid refresh token';
+export const NOT_FOUND_USER = 'Cannot find user';
+export const UPDATE_FAILED = 'Failed to update';
+export const REMOVE_FAILED = 'Failed to remove';
+export const CARD_NOT_EXIST = 'Card does not exist';
+export const CARD_NUMBER_EXIST = 'Card number already exist';
+export const USER_NOT_EXIST = 'User does not exist';
